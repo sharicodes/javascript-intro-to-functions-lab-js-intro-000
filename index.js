@@ -9,5 +9,5 @@ function logShout(newArg){
 }
 function logWhisper(newArg){
   console.log(newArg.toLowerCase());
-  
+
 }
