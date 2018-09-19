@@ -7,3 +7,7 @@ function whisper(argument){
 function logShout(newArg){
   console.log(newArg.toUpperCase());
 }
+function logWhisper(newArg){
+  console.log(newArg.toLowerCase());
+  
+}
