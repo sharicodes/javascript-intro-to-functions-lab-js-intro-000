@@ -22,5 +22,3 @@ const sayHiToGrandma =(str1)=> {
       return "I love you, too."
   }
 }
-
-
